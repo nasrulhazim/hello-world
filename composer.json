@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "NasrulHazim\\Hello\\World": "src/"
+            "NasrulHazim\\Hello\\World\\": "src/"
         }
     }
 }
